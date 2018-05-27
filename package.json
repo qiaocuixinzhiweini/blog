@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topul/blog.git"
+  },
+  "keywords": [
+    "博客，前端，python，javascript"
+  ],
+  "author": "topul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topul/blog/issues"
+  },
+  "homepage": "https://github.com/topul/blog#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
